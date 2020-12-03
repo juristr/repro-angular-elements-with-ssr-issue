@@ -19,6 +19,7 @@
     "@angular/common": "~11.0.1",
     "@angular/compiler": "~11.0.1",
     "@angular/core": "~11.0.1",
+    "@angular/elements": "11.0.2",
     "@angular/forms": "~11.0.1",
     "@angular/platform-browser": "~11.0.1",
     "@angular/platform-browser-dynamic": "~11.0.1",
@@ -27,6 +28,7 @@
     "@hapi/hapi": "^18.4.0",
     "@hapi/inert": "^5.2.0",
     "@nguniversal/hapi-engine": "^11.0.0",
+    "document-register-element": "^1.7.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
